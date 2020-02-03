@@ -29,4 +29,3 @@ The purpose of this project is  __to develop deep learning models for natural la
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](http://www.cs.cornell.edu/people/pabo/movie-review-data/review_polarity.tar.gz).
